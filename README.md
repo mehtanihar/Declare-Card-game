@@ -1,0 +1,2 @@
+# declare-card-game
+I have made an android app- Declare card game. It is both single player as well as multiplayer. I have used Google's Turn based Multiplayer for developing the 2-player code. I have also introduced 3 levels for single player game. You can download the game from https://play.google.com/store/apps/details?id=com.iitb.nihar.declarecardgame&amp;hl=en. You can watch the tutorial here :  https://www.youtube.com/watch?v=4EhLZBIv5yM
